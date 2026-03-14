@@ -1,0 +1,10 @@
+Dear Members of the Organizing Committee,
+I’m Anna Sicolo, PhD student from SISSA. My primary research background lies in deformation
+theory, specifically focusing on the formal study of moduli problems and their infinitesimal
+structures. I am currently transitioning toward the geometry of Nakajima quiver varieties and
+the language of algebraic stacks to better understand the global properties of these moduli
+spaces. I aim to apply my experience in deformation invariants to the study of instantons
+and their quiver descriptions. I am particularly interested in exploring how the stack-theoretic
+approach clarifies the construction of tautological bundles over these varieties.
+Sincerely,
+Anna Sicolo

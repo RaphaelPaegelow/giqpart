@@ -1,0 +1,12 @@
+Dear Organizing Committee,
+My research focuses on the classification of four-dimensional Koszul Artin-Schelter regular algebras.
+We determine which families form components of the moduli stack A4 using the Kodaira-Spencer
+map. Given a family of algebras A over a base scheme B and point p ∈ B, the Kodaira-Spencer map
+gives the derivative of the natural map from the tangent space TpB of the base at p to Hochschild
+cohomology group HH2(Ap)0. We also approached the classification problem from the perspective
+of superpotentials, applying Schur-Weyl duality and the Borel-Weil theorem to extract discrete
+projective invariants that distinguish these components. I am motivated to attend this workshop
+to explore moduli spaces of vector bundles and quiver varieties, and to share and discuss my work
+with experts in the field.
+Sincerely,
+Vishal

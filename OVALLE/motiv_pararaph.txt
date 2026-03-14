@@ -1,0 +1,3 @@
+Motivation:
+
+My research interest is enumerative geometry. I am working on two directions: The study of Pandharipande-Thomas invariants of K3 and Enriques surfaces and their relationship with the corresponding Gromov-Witten invariants, especially at the level of generating functions. And, secondly, on tropical approaches to Gromov-Witten theory. In particular, I am exploring a possible tropical correspondence for Fano 3folds. Many conjectures in enumerative geometry originate in ideas from string theory, which is my motivation for the conference.

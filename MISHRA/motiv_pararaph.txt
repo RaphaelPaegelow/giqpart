@@ -1,0 +1,25 @@
+Motivation to Attend the Workshop: Geometry of Instantons and Quivers
+My academic background is primarily in computer science, complemented by a strong interest in
+mathematics. Over time, I have developed a growing curiosity about the deep connections between
+algebra and geometry. The theme of the workshop, Geometry of Instantons and Quivers, lies at a
+fascinating intersection of these areas and offers an opportunity to explore advanced mathematical
+structures that I have only encountered at an introductory level.
+From a computational perspective, quivers and their representations are particularly intriguing
+because they provide a combinatorial framework for studying complex geometric and algebraic
+objects. Concepts such as moduli spaces, representation theory, and geometric structures arising
+from quivers resonate with my interest in structured systems, networks, and abstract models that
+often appear in theoretical computer science. Learning how these ideas connect to instanton moduli
+spaces and gauge-theoretic geometry would greatly broaden my understanding of modern
+mathematical methods.
+I am especially motivated to attend this workshop to gain exposure to the geometric and physical
+motivations behind instantons, as well as the role of quiver varieties in organizing and studying
+these structures. Engaging with experts in the field and participating in discussions would help me
+build a clearer conceptual foundation and identify potential directions where computational
+techniques and mathematical theory interact.
+Furthermore, the workshop would provide a valuable opportunity to bridge my computer science
+training with more advanced areas of mathematics. I hope to develop a deeper appreciation of the
+geometric and representation-theoretic tools used in this area and to understand how these ideas
+may connect to algorithmic, combinatorial, or computational viewpoints.
+Overall, attending this workshop would allow me to expand my mathematical perspective, learn
+from leading researchers, and explore an area that sits at the crossroads of geometry and algebra,
+and theoretical Computer Science.
