@@ -1,0 +1,7 @@
+My research concerns moduli of 1-dimensional sheaves on del Pezzo
+surfaces, which admits quiver descriptions and deep connections to
+enumerative geometry. One of my papers (arXiv:2211.06991) uses the
+instanton moduli space and Nekrasovs partition function as key
+ingredients. Other tools in my research such as Virasoro constraints and
+cohomological integrality have natural formulations for quiver moduli
+spaces. Thus I wish to attend this workshop to learn more about this area.

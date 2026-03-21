@@ -1,0 +1,3 @@
+I am currently working on the resurgence of topological string theory on Calabi–Yau manifolds and its connections to Donaldson–Thomas invariants and their wall-crossing behavior, a theory closely related to quivers and extensively studied by Bousseau.
+In local cases, topological string theory can also be approached via the Nekrasov partition function, which is the subject of Kimura’s course and a topic I am eager to understand more rigorously.
+Overall, this school will provide me with new insights and rigorous geometric tools that will be directly applicable to my research.

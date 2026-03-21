@@ -1,0 +1,5 @@
+My interests lie in symplectic and algebraic geometry, at the boundary with representation
+theory. I work with symplectic duality, a variant of Mirror Symmetry, that comes from seeing
+the varieties as the Coulomb and Higgs branches of TQFT (a topic very related to quiver
+varieties). I look at these questions mostly from the mathematical point of view and I would
+like to enlarge my physical background and get a broader perspective on the topic.

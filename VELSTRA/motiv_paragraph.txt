@@ -1,0 +1,6 @@
+I work on Gromov-Witten theory and Cohomological Field Theories in general, whose integrals
+over moduli spaces of curves produce invariants. In my PhD thesis, I work on several refinements of
+these theories by using moduli spaces of spin curves instead. Some open problems include finding
+the corresponding refinements for other moduli spaces, including DT theory and the GW theory of
+Hilb(C2) through the Nakajima description.
+Thank you for your considerations!

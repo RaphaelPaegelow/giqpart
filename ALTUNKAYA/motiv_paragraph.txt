@@ -1,0 +1,6 @@
+My academic interests lie in supersymmetric field theories, with a specific focus
+on localization and the mathematical structures of scattering amplitudes. Having previously
+written a review on complexified path integrals to study non-perturbative effects, I am highly
+motivated to attend this workshop. I aim to learn how the geometry of instantons and quiver
+varieties formalizes these exact results, providing essential mathematical tools for my future
+research.

@@ -1,0 +1,5 @@
+My current research concerns 6d SCFTs on ALE spaces and their partition functions, computed via instanton
+counting methods. A key part of my work focuses on the sigma model of BPS strings in these theories, whose
+target space is the instanton moduli space described by Kronheimer-Nakajima quivers. My motivation to attend
+this school is to deepen my understanding of instantons, their moduli spaces, and quiver varieties, and to apply
+this to extend my research, e.g. to toric singularities for which the moduli space is still a quiver variety.

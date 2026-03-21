@@ -1,0 +1,11 @@
+1 Research Topic
+
+My current research interest is the Fulton–MacPherson compactification FMn(C2), with a partic-
+ular focus on describing its torus fixed locus. Understanding this fixed locus is expected to clarify
+the geometry of the compactification.
+
+2 Motivation
+
+My motivation is driven both by a general curiosity for new mathematics and by the Mini-Lecture
+series of Prof. Taro Kimura, which may provide a new perspective on the Hilbert scheme of points
+in the affine plane.

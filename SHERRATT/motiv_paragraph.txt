@@ -1,0 +1,5 @@
+My recent research is on the GIT of a specific quiver variety, and more broadly
+I am interested in moduli of sheaves and vector bundles. I aim to pivot to applying this area of
+algebraic geometry to mathematical physics, given my undergraduate training in quantum field theory.
+In particular, I am interested in how objects I know from geometry (e.g. the quotient construction of the
+Hilbert scheme of points in C2) relate to physics to inform my future research and thesis directions

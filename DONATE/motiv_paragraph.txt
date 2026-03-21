@@ -1,0 +1,8 @@
+I am a Master’s student at the University of Bonn specializing in algebraic
+geometry and its intersections with representation theory. My current research
+interests focus on the geometry of moduli spaces, and I am particularly drawn
+to how quiver varieties provide explicit models for these objects. By attending
+this conference in Lille, I expect to gain the technical tools necessary to bridge
+the gap between abstract moduli problems and concrete quiver descriptions, as
+well as having a clearer idea on the possibilities and state of art for my master
+thesis.
